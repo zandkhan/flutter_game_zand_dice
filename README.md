@@ -1,6 +1,8 @@
 # zand_dice
 
-A new Flutter project.
+# Dice Game 🎲
+
+<img src = "images/dice.png" width = 300/>
 
 ## Getting Started
 
